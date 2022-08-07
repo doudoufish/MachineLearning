@@ -87,3 +87,6 @@ PPT
 ##
 https://docs.google.com/presentation/d/1GC3VDFsb75WTDRcImeYScV1fL-3Gw_JL-Vo1HDWMFQo/edit?usp=sharing
 
+# reference
+## Classification Basics: Walk-through with the Iris Data Set
+https://towardsdatascience.com/classification-basics-walk-through-with-the-iris-data-set-d46b0331bf82
