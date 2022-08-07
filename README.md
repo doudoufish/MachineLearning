@@ -69,20 +69,20 @@ print(np.mean(scores))
 ```
 
 
-#Step 7：
+# Step 7：
 Using the Confusion Matrix allows a closer look at the predictions made by the model
 ```
 df_coef = pd.DataFrame(model.coef_, columns=X_train.columns)
 df_coef
 ```
-#Step 8:
+# Step 8:
 Classification Report
 ```
 from sklearn.metrics import classification_report
 print(classification_report(y_test, predictions))
 ```
 
-#Step 9:
+# Step 9:
 PPT
 ##
 https://docs.google.com/presentation/d/1GC3VDFsb75WTDRcImeYScV1fL-3Gw_JL-Vo1HDWMFQo/edit?usp=sharing
